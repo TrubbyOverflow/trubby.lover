@@ -1,0 +1,16 @@
+version: '3.5'
+
+services:
+  rasa:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - 5005:5005 # Rasa Core
+      - 5002:5002 # Rasa X
+    environment:
+      - TELEGRAM_ACCESS_TOKEN=${TELEGRAM_ACCESS_TOKEN}
+      - TELEGRAM_VERIFY=${TELEGRAM_VERIFY}
+      - TELEGRAM_WEBHOOK_URL=${TELEGRAM_WEBHOOK_URL}
+      - RASA_URL=${RASA_URL}
+    command: rasa x --no-prompt

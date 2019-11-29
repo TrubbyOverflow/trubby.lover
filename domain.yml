@@ -1,0 +1,40 @@
+intents:
+- greet
+- love
+- bot_challenge
+templates:
+  utter_greet:
+  - text: Oi, seu merda. Como posso tornar o seu dia pior?
+  utter_default:
+  - text: Para de falar bobagem e fala o que você quer de verdade.... (TrubbyLove)
+  utter_iamabot:
+  - text: Eu sou um bot. Ou seja, eu sou melhor do que você.
+  utter_love:
+  - text: Se não for pra ganhar, nem entro
+  - text: Eu sinceramente meio q cansei do trubo
+  - text: webservice e meu. mimda
+  - text: quero a minha mãe
+  - text: eu quero minha casa. me tira daqui pls
+  - text: pelamor d deus testa antes isso. FILHO DA PUTA.
+  - text: imagina eu aqui nessa internet pensando se eu cliquei no botão ou não
+  - text: caraio to me sentindo the api lord nesse trabalho
+  - text: /get muahahha
+  - text: Trubby = (Tru)ck + Bu(ddy)
+  - text: um grande vai tomar no cu a todos os que participaram dessa jornada
+  - text: vamo para de conversar e alguém compra a porra deste domínio de merda pra
+      colocar o lixo de gerador de frases bosta
+  - text: eu não tenho culpa se o pessoal fez o trbaalho pra mim. Se eu tirei 8 foi
+      porque eu mereci sim
+  - text: Ô mermão, tu tá achando que a gente tem cara de palhaço? Tu é Trubby até
+      os furos da sua cueca, seu é-porque-eu-mereci-sim.
+  - text: show me the fodendo code meu compadecido
+  - text: Falar é mole, meu consagrado, show me the caralho de code
+  - text: Cala boca, você tem placa da Nvidia
+  - text: Ô seu filho de um jihadista árabe, ninguém aqui é seu empregado não
+  - text: Fodazemermao
+  - text: Ninguém aqui é seu empregado
+actions:
+- utter_greet
+- utter_default
+- utter_love
+- utter_iamabot
