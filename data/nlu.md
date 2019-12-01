@@ -2,20 +2,25 @@
 - oi
 - olá
 - e aí
+- olar
+- bom dia
+- boa tarde
+- boa noite
 
-## intent:love
-- eu quero amor
-- mais amor
-- me motive
-- eu preciso de motivação
-- TrubbyLove
-- preciso de algumas palavras de inspiração
-- preciso de inspiração
-- quero inspiração
-- precisam de amor por aqui
+## intent:project_going_well
+- bem
+- tá indo bem
+- to mandando ver
+- sou o fodão
+- meu projeto tá indo bem
 
-## intent:bot_challenge
-- você é um bot?
-- você é humano?
-- eu estou falando com um bot?
-- eu estou falando com uma pessoa?
+
+## intent:project_going_poorly
+- mal
+- pior
+- ruim
+- tá indo mal
+- tá uma merda o projeto
+- ruim o projeto
+- é culpa do meu chefe
+- tá na merda
