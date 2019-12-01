@@ -1,5 +1,5 @@
 language: pt
-pipeline: pretrained_embeddings_spacy
+pipeline: supervised_embeddings
 policies:
 - name: MemoizationPolicy
 - name: KerasPolicy
