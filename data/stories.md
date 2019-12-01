@@ -3,6 +3,7 @@
   - utter_greet
   - utter_ask_project_status
 * project_going_well
+  - utter_announce_wisdom
   - utter_love
   - utter_goodbye
   - action_restart
@@ -13,6 +14,7 @@
   - utter_greet
   - utter_ask_project_status
 * project_going_poorly
+  - utter_announce_wisdom
   - utter_anti_love
   - utter_goodbye
   - action_restart

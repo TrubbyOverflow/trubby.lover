@@ -13,6 +13,9 @@ templates:
   utter_ask_project_status:
   - text: E como tá o seu projetinho? Indo bem ou mal?
   - text: Projeto tá beleza? Indo mal ou pior?
+  utter_announce_wisdom:
+  - text: Se liga nessa sabedoria TrubbyLove
+  - text: Tenho uma dica TrubbyLove pra você
   utter_love:
   - text: Se não for pra ganhar, nem entro
   - text: webservice e meu. mimda
@@ -35,6 +38,7 @@ actions:
 - utter_greet
 - utter_ask_project_status
 - utter_default
+- utter_announce_wisdom
 - utter_love
 - utter_anti_love
 - utter_goodbye
