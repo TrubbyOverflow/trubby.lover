@@ -6,6 +6,8 @@
 - bom dia
 - boa tarde
 - boa noite
+- /start
+- start
 
 ## intent:project_going_well
 - bem
