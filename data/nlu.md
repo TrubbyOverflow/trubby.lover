@@ -8,6 +8,12 @@
 - boa noite
 - /start
 - start
+- fala aí, mano
+- como tá, manolo
+- como está, manolo
+- como está a vida, mano
+- e aí, meu velho?
+- fala, velhinho
 
 ## intent:project_going_well
 - bem
@@ -15,6 +21,9 @@
 - to mandando ver
 - sou o fodão
 - meu projeto tá indo bem
+- bem pra caralho
+- o projetozinho tá indo bem
+- o projetinho tá indo bem
 
 
 ## intent:project_going_poorly
@@ -26,3 +35,6 @@
 - ruim o projeto
 - é culpa do meu chefe
 - tá na merda
+- mal pra caralho
+- o projetozinho tá indo mal
+- o projetinho tá indo mal

@@ -4,12 +4,12 @@ intents:
 - project_going_poorly
 templates:
   utter_greet:
-  - text: Oi, seu merda. To aqui pra conversar com você (não tenho nada melhor pra fazer da minha vida, pelo jeito)
+  - text: Oi, seu merda. To aqui pra te aconselhar (sou um bot e não tenho nada melhor pra fazer da minha vida)
   utter_default:
-  - text: Fodazemermao
-  - text: Ô seu filho de um jihadista árabe, ninguém aqui é seu empregado não
-  - text: Ninguém aqui é seu empregado
-  - text: Cala boca, você tem placa da Nvidia
+  - text: Fodazemermao. Fala como tá o seu projetinho de merda logo
+  - text: Ô seu filho de um jihadista árabe, ninguém aqui é seu empregado não. Eu quero saber como tá o seu projetozinho
+  - text: Ninguém aqui é seu empregado. Fala logo como o seu "projeto" tá
+  - text: Cala boca, você tem placa da Nvidia. Se vai falar, conta como tá o seu projeto
   utter_ask_project_status:
   - text: E como tá o seu projetinho? Indo bem ou mal?
   - text: Projeto tá beleza? Indo mal ou pior?
@@ -17,19 +17,19 @@ templates:
   - text: Se liga nessa sabedoria TrubbyLove
   - text: Tenho uma dica TrubbyLove pra você
   utter_love:
-  - text: Se não for pra ganhar, nem entro
-  - text: webservice e meu. mimda
-  - text: caraio to me sentindo the api lord nesse trabalho. chama daqui envia de lá
-  - text: /get muahahha
-  - text: um grande vai tomar no cu a todos os que participaram dessa jornada
-  - text: eu não tenho culpa se o pessoal fez o trabalho pra mim. Se eu tirei 8 foi
-      porque eu mereci sim
+  - text: "`Se não for pra ganhar, nem entro`"
+  - text: "`webservice e meu. mimda`"
+  - text: "`caraio to me sentindo the api lord nesse trabalho. chama daqui envia de lá`"
+  - text: "`/get muahahha`"
+  - text: "`um grande vai tomar no cu a todos os que participaram dessa jornada`"
+  - text: "`eu não tenho culpa se o pessoal fez o trabalho pra mim. Se eu tirei 8 foi
+      porque eu mereci sim`"
   utter_anti_love:
-  - text: quero a minha mãe
-  - text: eu quero minha casa. me tira daqui pls
-  - text: pelamor d deus testa antes isso. FILHO DA PUTA.
-  - text: imagina eu aqui nessa internet pensando se eu cliquei no botão ou não
-  - text: n botei meus dinhero aqui
+  - text: "`quero a minha mãe`"
+  - text: "`eu quero minha casa. me tira daqui pls`"
+  - text: "`pelamor d deus testa antes isso. FILHO DA PUTA.`"
+  - text: "`imagina eu aqui nessa internet pensando se eu cliquei no botão ou não`"
+  - text: "`n botei meus dinhero aqui`"
   utter_goodbye:
   - text: Mas, olha, eu sinceramente meio q cansei de você. Valeu, falou
   - text: Legal falar com você (só que não). Falou
