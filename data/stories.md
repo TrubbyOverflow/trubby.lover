@@ -22,6 +22,7 @@
 
 ## project is going well
 * project_going_well
+  - utter_announce_wisdom
   - utter_love
   - utter_goodbye
   - action_restart
@@ -29,6 +30,7 @@
 
 ## project is going poorly
 * project_going_poorly
+  - utter_announce_wisdom
   - utter_anti_love
   - utter_goodbye
   - action_restart
