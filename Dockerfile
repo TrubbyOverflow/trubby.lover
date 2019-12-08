@@ -8,9 +8,6 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install -r requirements.txt --extra-index-url https://pypi.rasa.com/simple
 
-RUN python -m spacy download pt_core_news_sm &&\
-    python -m spacy link pt_core_news_sm pt
-
 COPY . /app
 
 # CMD rasa train && rasa run -m models --enable-api --log-file out.log
