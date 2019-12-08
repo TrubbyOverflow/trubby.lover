@@ -10,6 +10,6 @@ RUN pip install -r requirements.txt --extra-index-url https://pypi.rasa.com/simp
 
 COPY . /app
 
-# CMD rasa train && rasa run -m models --enable-api --log-file out.log
-CMD rasa train &&\
-    rasa x --no-prompt
+RUN rasa train
+
+CMD rasa x --no-prompt
