@@ -1,36 +1,46 @@
-## greet and project is going well
-* greet
-  - utter_greet
-  - utter_ask_project_status
-* project_going_well
-  - utter_announce_wisdom
-  - utter_love
-  - utter_goodbye
-  - action_restart
+## good_day
+* good_day
+    - utter_good_day
+    - action_restart
 
 
-## greet and project is going poorly
-* greet
-  - utter_greet
-  - utter_ask_project_status
-* project_going_poorly
-  - utter_announce_wisdom
-  - utter_anti_love
-  - utter_goodbye
-  - action_restart
+## good_afternoon
+* good_afternoon
+    - utter_good_afternoon
+    - action_restart
 
 
-## project is going well
-* project_going_well
-  - utter_announce_wisdom
-  - utter_love
-  - utter_goodbye
-  - action_restart
+## good_night
+* good_night
+    - utter_good_night
+    - action_restart
 
 
-## project is going poorly
-* project_going_poorly
-  - utter_announce_wisdom
-  - utter_anti_love
-  - utter_goodbye
-  - action_restart
+## goodbye
+* goodbye
+    - utter_goodbye
+    - action_restart
+
+
+## failure
+* failure
+    - utter_failure
+    - action_restart
+
+
+## help_out
+* help_out
+    - utter_help_out
+    - action_restart
+
+
+## success
+* success
+    - utter_success
+    - action_restart
+
+
+## date_help
+* date_help
+    - utter_date_help
+    - action_restart
