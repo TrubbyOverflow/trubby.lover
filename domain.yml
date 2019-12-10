@@ -15,11 +15,9 @@ templates:
   - text: fala ai seus lixo
   - text: cedo pra kct
   - text: Hj é um bom dia para lavar roupa
-  - text: Se liga no outfit do dia
   - text: Sad segunda
   - text: Esqueci meu oculos em casa aaaaaaaaaaaaaa
   - text: Uma ótima dia para vocês
-  - text: Bom dia
   - text: Bom dia futebolistas
   - text: Have a fantastic day
   - text: Have a fantastic month
@@ -31,7 +29,6 @@ templates:
   - text: Bia tarfe
   - text: Boa tarde pra quem ta trabalhando
   - text: Boa tarde camarada da classe operária
-  - text: Boa tarde
   utter_good_night:
   - text: hj eu só durmo bebado
   utter_goodbye:
@@ -69,7 +66,7 @@ templates:
   utter_success:
   - text: NOSSA. MANDEI ANTES DO DATALEO
   - text: Vocês tem de parar de achar que a opinião de vocês é palavra final. Credo
-  - text: 😂😂😂😂😂👌👌👌👌
+  - text: "😂😂😂😂😂👌👌👌👌"
   - text: Parabéns! Vai ter que trabalhar de verdade agora!
   - text: Ta muito internacional vc
   - text: leo delivers
@@ -85,9 +82,8 @@ templates:
   - text: /get muahahha
   - text: um grande vai tomar no cu a todos os que participaram dessa jornada
   - text: eu não tenho culpa se o pessoal fez o trabalho pra mim. Se eu tirei 8 foi porque eu mereci sim
+  - text: Lucas approves with cones and lasers.
   utter_help_out:
-  - text: Sim, alguém tem
-  - text: Sim, alguém consegue
   - text: Sim, alguém ajuda
   utter_date_help:
   - text: Bruno ramelando um rolê? Que novidade!
@@ -100,7 +96,6 @@ templates:
   - text: Vc NÃO estava no role. Seu mia role
   - text: To pensando em n ir
   utter_default:
-  - text: Lucas approves with cones and lasers.
   - text: Adoro karwoke
   - text: Adoro porle danrce
   - text: Aí sim ein Léo
@@ -163,8 +158,6 @@ templates:
   - text: Vixi
   - text: Mano olha essa conversa hahahahahhaah
   - text: Grupo errado
-  - text: Ajuda a menina
-  - text: Ajude você.
   - text: Altas fofocas da mina
   - text: Foda...
   - text: pqp
@@ -175,7 +168,7 @@ templates:
   - text: Eu tava zoando
   - text: Esquece
   - text: Dá mole.
-  - text: coisas que eu estou sem:<br>palavras
+  - text: "coisas que eu estou sem: palavras"
   - text: Obrigado
   - text: ele mando todo mundo toma no cu
   - text: seu verme
