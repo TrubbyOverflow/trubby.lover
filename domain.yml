@@ -20,8 +20,9 @@ templates:
   - text: Uma ótima dia para vocês
   - text: Bom dia futebolistas
   - text: Have a fantastic day
-  - text: Have a fantastic month
-  - text: Have a fantastic life
+  - text: Bom dia meus faraós
+  - text: Bom dia faria limers
+  - text: Abrace uma árvore
   utter_good_afternoon:
   - text: Boa tarde Mario de Andrade Silva e outros
   - text: Boa tarde Lucas C e demais
@@ -63,6 +64,7 @@ templates:
   - text: pelamor d deus testa antes isso. FILHO DA PUTA.
   - text: imagina eu aqui nessa internet pensando se eu cliquei no botão ou não
   - text: n botei meus dinhero aqui
+  - text: Agora, foda-se. Kkkkkkkkkkkkkkk
   utter_success:
   - text: NOSSA. MANDEI ANTES DO DATALEO
   - text: Vocês tem de parar de achar que a opinião de vocês é palavra final. Credo
@@ -83,6 +85,7 @@ templates:
   - text: um grande vai tomar no cu a todos os que participaram dessa jornada
   - text: eu não tenho culpa se o pessoal fez o trabalho pra mim. Se eu tirei 8 foi porque eu mereci sim
   - text: Lucas approves with cones and lasers.
+  - text: Foi suave na nave
   utter_help_out:
   - text: Sim, alguém ajuda
   utter_date_help:
@@ -286,7 +289,7 @@ templates:
   - text: Peraí que eu vou soltar uns rojões.
   - text: A conclusão que chegamos é q ninguém sabe de nada
   - text: "???"
-  - text: Do latim \"gens\". O que há de estranho nisso?
+  - text: 'Do latim "gens". O que há de estranho nisso?'
   - text: História assustadoramente realista.
   - text: Não entendi
   - text: Aaaa
@@ -325,7 +328,7 @@ templates:
   - text: Mentira do capitalismo
   - text: como esse cara era chato
   - text: vtnc esse maluco
-  - text: \*rindo maléficamente\*
+  - text: "*rindo maléficamente*"
   - text: OLHA PRA CAAAAAA
   - text: mano vai toma no cu
   - text: seui merda
@@ -340,18 +343,21 @@ templates:
   - text: Esse é o grupo de hackeagem.
   - text: se fodam ai caraio
   - text: Vai tomar no meu cu, que merda de metrô do kraio
-  - text: por isso fica um tempão \"Leo está escrevendo\"
-  - text: Quem ri assim, Lucas? Se responder \"eu\", amanda os áudios.
+  - text: 'por isso fica um tempão "Leo está escrevendo"'
+  - text: 'Quem ri assim, Lucas? Se responder "eu", amanda os áudios.'
   - text: Saporra é mais confusa que a cronologia dos X-Men.
   - text: Já estava printando para mandar para a Polícia Federal.
   - text: não
   - text: ok, não necessariamente não
   - text: mas não necessariamente
   - text: Por que essa pergunta aleatória? Está fazendo cruzadinhas?
-  - text: Agora, foda-se. Kkkkkkkkkkkkkkk
   - text: "Eu: pessoa descrente com o rumo desta conversa"
   - text: que porra é essa que ces tão falando gente?
-  - text: Foi suave na nave
+  - text: me identifico com a síndrome de lucas
+  - text: minhanossa.tar.gz
+  - text: aqui é o hacker
+  - text: Não tenho bagagem cultural para apreciar completamente isso
+  - text: hackearam a gente
 actions:
 - utter_default
 - utter_good_day
