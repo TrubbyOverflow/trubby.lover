@@ -65,6 +65,7 @@ templates:
   - text: imagina eu aqui nessa internet pensando se eu cliquei no botão ou não
   - text: n botei meus dinhero aqui
   - text: Agora, foda-se. Kkkkkkkkkkkkkkk
+  - text: Eu ainda sou jovem
   utter_success:
   - text: NOSSA. MANDEI ANTES DO DATALEO
   - text: Vocês tem de parar de achar que a opinião de vocês é palavra final. Credo
@@ -358,6 +359,8 @@ templates:
   - text: aqui é o hacker
   - text: Não tenho bagagem cultural para apreciar completamente isso
   - text: hackearam a gente
+  - text: Sou um hipócrita.
+  - text: Ê vida de férias.
 actions:
 - utter_default
 - utter_good_day
