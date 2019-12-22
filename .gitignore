@@ -3,3 +3,7 @@ __pycache__
 models/
 *.db*
 .env
+.cache
+.ipython
+.jupyter
+.local
