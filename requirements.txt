@@ -1,1 +1,1 @@
-rasa~=1.10.11
+python-telegram-bot~=12.8
