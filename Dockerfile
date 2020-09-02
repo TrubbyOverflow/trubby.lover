@@ -12,4 +12,4 @@ COPY . /app
 
 RUN rasa train
 
-CMD rasa x --no-prompt
+CMD rasa run
