@@ -1,0 +1,432 @@
+good_day:
+  - text: Bom dia pra quem já se conformou que tem que estar acordado
+  - text: fala ai seus lixo
+  - text: cedo pra kct
+  - text: Hj é um bom dia para lavar roupa
+  - text: Sad segunda
+  - text: Esqueci meu oculos em casa aaaaaaaaaaaaaa
+  - text: Uma ótima dia para vocês
+  - text: Bom dia futebolistas
+  - text: Have a fantastic day
+  - text: Bom dia meus faraós
+  - text: Bom dia faria limers
+  - text: Abrace uma árvore
+good_afternoon:
+  - text: Boa tarde Mario de Andrade Silva e outros
+  - text: Boa tarde Lucas C e demais
+  - text: Boa tarfe
+  - text: Bia tarfe
+  - text: Boa tarde pra quem ta trabalhando
+  - text: Boa tarde camarada da classe operária
+good_night:
+  - text: hj eu só durmo bebado
+goodbye:
+  - text: Vlw, me formei já
+  - text: vlw, flws
+failure:
+  - text: Porra desci na estação errada
+  - text: não consigo estudar
+  - text: N entendo mais nada
+  - text: eu nunca entendi
+  - text: Se atualize rapaz
+  - text: Depois de um banho estou bem melhor
+  - text: Mas foda-se. Agora tô sentado na sanfona
+  - text: to bem triste
+  - text: Vcs me limitam
+  - text: Eu não vivo o passado
+  - text: não tá fácil pra ninguém
+  - text: Malditos millenials
+  - text: Tudo é falso nessa vida
+  - text: Sou péssima com tudo
+  - text: É que é muita gente retardada
+  - text: Minha vida era melhor antes deu entender
+  - text: Estamos todos fodidos.
+  - text: Que merda, hein.
+  - text: demite esses verme ai
+  - text: pedaço de estrume
+  - text: seu pedacinho de coco de pombo
+  - text: Culpa minha q fiquei procrastinando
+  - text: quero a minha mãe
+  - text: eu quero minha casa. me tira daqui pls
+  - text: pelamor d deus testa antes isso. FILHO DA PUTA.
+  - text: imagina eu aqui nessa internet pensando se eu cliquei no botão ou não
+  - text: n botei meus dinhero aqui
+  - text: Agora, foda-se. Kkkkkkkkkkkkkkk
+  - text: Eu ainda sou jovem
+success:
+  - text: NOSSA. MANDEI ANTES DO DATALEO
+  - text: Vocês tem de parar de achar que a opinião de vocês é palavra final. Credo
+  - text: "😂😂😂😂😂👌👌👌👌"
+  - text: Parabéns! Vai ter que trabalhar de verdade agora!
+  - text: Ta muito internacional vc
+  - text: leo delivers
+  - text: A gnt pode ser o q a gnt quiser
+  - text: A vingança de lucas
+  - text: Legal, luscas
+  - text: Acredite nos seus sonhos
+  - text: O presidente não tá aqui pra brincadeira
+  - text: chama até o rojao
+  - text: Se não for pra ganhar, nem entro
+  - text: webservice e meu. mimda
+  - text: caraio to me sentindo the api lord nesse trabalho. chama daqui envia de lá
+  - text: /get muahahha
+  - text: um grande vai tomar no cu a todos os que participaram dessa jornada
+  - text: eu não tenho culpa se o pessoal fez o trabalho pra mim. Se eu tirei 8 foi porque eu mereci sim
+  - text: Lucas approves with cones and lasers.
+  - text: Foi suave na nave
+help_out:
+  - text: Sim, alguém ajuda
+date_help:
+  - text: Bruno ramelando um rolê? Que novidade!
+  - text: com telão e bebida alcolica
+  - text: Estou viajando. Não comparecerei.
+  - text: Eh hj??
+  - text: NÃO FAÇAM ROLE SEM MIM
+  - text: To com medo d encontrar o pessoal do trabalho antigo
+  - text: q hrs la seus chupingole
+  - text: Vc NÃO estava no role. Seu mia role
+  - text: To pensando em n ir
+random:
+  - text: Bom dia pra quem já se conformou que tem que estar acordado
+  - text: fala ai seus lixo
+  - text: cedo pra kct
+  - text: Hj é um bom dia para lavar roupa
+  - text: Sad segunda
+  - text: Esqueci meu oculos em casa aaaaaaaaaaaaaa
+  - text: Uma ótima dia para vocês
+  - text: Bom dia futebolistas
+  - text: Have a fantastic day
+  - text: Bom dia meus faraós
+  - text: Bom dia faria limers
+  - text: Abrace uma árvore
+  - text: Boa tarde Mario de Andrade Silva e outros
+  - text: Boa tarde Lucas C e demais
+  - text: Boa tarfe
+  - text: Bia tarfe
+  - text: Boa tarde pra quem ta trabalhando
+  - text: Boa tarde camarada da classe operária
+  - text: hj eu só durmo bebado
+  - text: Vlw, me formei já
+  - text: vlw, flws
+  - text: acho q agora a unica opção é ele me matar né
+  - text: Porra desci na estação errada
+  - text: não consigo estudar
+  - text: N entendo mais nada
+  - text: eu nunca entendi
+  - text: Se atualize rapaz
+  - text: Depois de um banho estou bem melhor
+  - text: Mas foda-se. Agora tô sentado na sanfona
+  - text: to bem triste
+  - text: Vcs me limitam
+  - text: Eu não vivo o passado
+  - text: não tá fácil pra ninguém
+  - text: Malditos millenials
+  - text: Tudo é falso nessa vida
+  - text: Sou péssima com tudo
+  - text: É que é muita gente retardada
+  - text: Minha vida era melhor antes deu entender
+  - text: Estamos todos fodidos.
+  - text: Que merda, hein.
+  - text: demite esses verme ai
+  - text: pedaço de estrume
+  - text: seu pedacinho de coco de pombo
+  - text: Culpa minha q fiquei procrastinando
+  - text: quero a minha mãe
+  - text: eu quero minha casa. me tira daqui pls
+  - text: pelamor d deus testa antes isso. FILHO DA PUTA.
+  - text: imagina eu aqui nessa internet pensando se eu cliquei no botão ou não
+  - text: n botei meus dinhero aqui
+  - text: Agora, foda-se. Kkkkkkkkkkkkkkk
+  - text: Eu ainda sou jovem
+  - text: NOSSA. MANDEI ANTES DO DATALEO
+  - text: Vocês tem de parar de achar que a opinião de vocês é palavra final. Credo
+  - text: "😂😂😂😂😂👌👌👌👌"
+  - text: Parabéns! Vai ter que trabalhar de verdade agora!
+  - text: Ta muito internacional vc
+  - text: leo delivers
+  - text: A gnt pode ser o q a gnt quiser
+  - text: A vingança de lucas
+  - text: Legal, luscas
+  - text: Acredite nos seus sonhos
+  - text: O presidente não tá aqui pra brincadeira
+  - text: chama até o rojao
+  - text: Se não for pra ganhar, nem entro
+  - text: webservice e meu. mimda
+  - text: caraio to me sentindo the api lord nesse trabalho. chama daqui envia de lá
+  - text: /get muahahha
+  - text: um grande vai tomar no cu a todos os que participaram dessa jornada
+  - text: eu não tenho culpa se o pessoal fez o trabalho pra mim. Se eu tirei 8 foi porque eu mereci sim
+  - text: Lucas approves with cones and lasers.
+  - text: Foi suave na nave
+  - text: Sim, alguém ajuda
+  - text: Bruno ramelando um rolê? Que novidade!
+  - text: com telão e bebida alcolica
+  - text: Estou viajando. Não comparecerei.
+  - text: Eh hj??
+  - text: NÃO FAÇAM ROLE SEM MIM
+  - text: To com medo d encontrar o pessoal do trabalho antigo
+  - text: q hrs la seus chupingole
+  - text: Vc NÃO estava no role. Seu mia role
+  - text: To pensando em n ir
+  - text: Adoro karwoke
+  - text: Adoro porle danrce
+  - text: Aí sim ein Léo
+  - text: AUSHUAHSUASUAUHAUA
+  - text: Altos negócio de computadores
+  - text: Peidos
+  - text: gente.....
+  - text: To pa
+  - text: EU VOU TE PROCESSAR
+  - text: os cara não perdoa
+  - text: carlosAlbeertoNobrega.rar
+  - text: trubby fazendo escola
+  - text: Fodazemermao
+  - text: Ninguém aqui é seu empregado
+  - text: Kraleor
+  - text: Não tenho amigos
+  - text: tudo raquer
+  - text: obrigado
+  - text: Mimdisgurpa
+  - text: N podemos confiar no menino Lucas
+  - text: lide com isso
+  - text: peladoeescovandodente
+  - text: eu sou um bosta mesmo
+  - text: Se vc n quer entender e quer construir argumento pra me derrubar, ok..
+  - text: meu linkedin minhas regras
+  - text: "#acelera"
+  - text: Zoeira
+  - text: Aaaaaaaa
+  - text: tem casa não?
+  - text: mario celok ze mane
+  - text: LUCAS TA ME OUVINDO?
+  - text: mc brinquedo descreu
+  - text: Desculpa, chegay agora com os refri
+  - text: Eu tenho vergonha de vcs
+  - text: eu tenho vergonha
+  - text: Eu quero minhas bacoins!!!! 111
+  - text: Ta rolante
+  - text: Opa me hackearuuu ai meu deussss to locaaaa
+  - text: Esses hackers.....
+  - text: bati com tudo o mouse na mesa
+  - text: Toda parte do corpo significa saude
+  - text: N seu burro, LIMITES
+  - text: Nosaa
+  - text: Vcs me ognoraram pesado
+  - text: To me sentindo invisivel
+  - text: eu sou um bosta mesmo
+  - text: nossa to mt fodido
+  - text: Hahahahahahahahahaahhahaahahahahahahahaha
+  - text: Nope
+  - text: eu so muito famoso puta merda
+  - text: qiçu
+  - text: medeus
+  - text: eu vo te mata
+  - text: you tricked me
+  - text: Ou não.
+  - text: Vcs estão quietos
+  - text: to zoando
+  - text: Qq ta acontecendo
+  - text: ¿que passa?
+  - text: Vixi
+  - text: Mano olha essa conversa hahahahahhaah
+  - text: Grupo errado
+  - text: Altas fofocas da mina
+  - text: Foda...
+  - text: pqp
+  - text: O ódio deixa as pessoas cegas.
+  - text: não, pera
+  - text: Hahaha, maldito
+  - text: Hj eh sabado
+  - text: Eu tava zoando
+  - text: Esquece
+  - text: Dá mole.
+  - text: "coisas que eu estou sem: palavras"
+  - text: Obrigado
+  - text: ele mando todo mundo toma no cu
+  - text: seu verme
+  - text: se fode ae
+  - text: Estou me sentindo trollada
+  - text: Teste
+  - text: To locao
+  - text: Crusen os fingers
+  - text: N vou conseguir n
+  - text: Hahaha
+  - text: mas acho isso vai sair de controle
+  - text: Seems legit.
+  - text: Sim...........
+  - text: n sei
+  - text: Pq??
+  - text: ou uma mensagem decotificada te avisando pra ir comprar pão
+  - text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  - text: McDonald tem batata
+  - text: e morreu
+  - text: isso é true
+  - text: fico com medo de morrer enforcado
+  - text: Me bateu fome
+  - text: Nossa tô dopado de remédio
+  - text: E trabalhando. Vai dar bom.
+  - text: Vcs dão fwds mto esquisitos
+  - text: Agora virou fiscal de fwd?
+  - text: to mandando isso pra pra encaminharem pro grupo de fwd
+  - text: Aulas Gratuitas Até Às 19H De Hoje.
+  - text: Eu falei q esse negócio d curso de graça era golpe
+  - text: Se é loiro
+  - text: /caralho
+  - text: Tá tumultuando o rolê já. Shame on you
+  - text: Eita, já pensou se subo meus nudes?
+  - text: N sei
+  - text: Parece interessante.
+  - text: q odio
+  - text: hj eu liguei a luz da sala do ti
+  - text: To todo molhado
+  - text: obrigado
+  - text: KKKKKKK
+  - text: Essa parte n foi zoeira
+  - text: FDP
+  - text: Não vou a festas a fantasia. É contra minha política. Grata, a Diretoria
+  - text: A Camiseta da União é uma instituição mais sólida do que a Advocacia-Geral da União e o Ministério
+  - text: mDS GENTE
+  - text: Você por favor poderia ir tomar no ânus?
+  - text: vcs conseguem mexer o anus sem mexer a barriga?
+  - text: a gente conta as vitoria onde dá
+  - text: vc ja cagou varias regras
+  - text: Caguei.
+  - text: Mark my words
+  - text: Não é verdade
+  - text: Para de querer gerar treta
+  - text: co se rád vrtá v kódech BIOSů počítačů a nedá si pokoj dokud obrazovka nadobro nezčerná :), tak také
+  - text: Celé to pak splácané na univerzálním plošňáku vypadá nějako takhle
+  - text: Toma no cu caralho
+  - text: Celoko vei
+  - text: Caralho, que pesado
+  - text: Cara, eu to tremento
+  - text: Velho, eu to tremendo, vsf
+  - text: Estamos rindo, mas com respeito.
+  - text: Perdi.
+  - text: Eh o cheiro do capitalismo
+  - text: O cheiro da privatização
+  - text: Q merda
+  - text: la vem as trestas
+  - text: Vontade de jogar bocha agora.
+  - text: Plotter twister reverso carpado com flip-flap.
+  - text: malditas padocas
+  - text: Veja só como estamos ficando velhos
+  - text: carai comi demais
+  - text: Vai dar arma para todo mundo e a gente resolve no tiro
+  - text: Isso. Ai a culpa n eh do Tinder, eh do Laury mesmo
+  - text: Eu n sei, eu quero morrer
+  - text: AAAAAAAA
+  - text: Ha ha
+  - text: vo ate come uma banana agora
+  - text: inveja define
+  - text: enveja define
+  - text: cerveja define
+  - text: vcs tudo q cheiraram
+  - text: nao cheiro
+  - text: Aham
+  - text: Isso eu sei
+  - text: Não tenta fugir
+  - text: esqueci o desodorante
+  - text: Melhor já ir se HaddadPTando
+  - text: Aí meu deus
+  - text: Meu Santo cristo
+  - text: O Santo Cristo do Bruno, indeed.
+  - text: Setembrochove
+  - text: Pq achei um meme q eh a cara dela
+  - text: Ngm mais tem noção de pertencimento ao grupo nesse mundo
+  - text: nossa q filosofico
+  - text: Fica a dúvida
+  - text: Parabéns, kaic
+  - text: Parabéns, laury
+  - text: half life 3 confirmed
+  - text: Much a e s t h e t i c
+  - text: Melhoras leo
+  - text: eu to locao
+  - text: Se quiserem maconha vcs q arranjem
+  - text: Aff homem tudo não presta mesmo
+  - text: A ignorância é uma benção
+  - text: Definitivamente nao entendo essas gírias que os jovens de hoje usa mais
+  - text: Você ta me fazendo passar vergonha em publico
+  - text: Puta que pariu
+  - text: uma BAITA diarreia
+  - text: Eu tô louco então
+  - text: To com fome
+  - text: mas vai chover hj?
+  - text: Não choveu ainda
+  - text: Muito pelo contrário
+  - text: Sorry, mas eu te conheço na vida real, e você é um boto-cor-de-rosa.
+  - text: Peraí que eu vou soltar uns rojões.
+  - text: A conclusão que chegamos é q ninguém sabe de nada
+  - text: "???"
+  - text: 'Do latim "gens". O que há de estranho nisso?'
+  - text: História assustadoramente realista.
+  - text: Não entendi
+  - text: Aaaa
+  - text: Eu tenho raiva q vc tem raivas estranhas
+  - text: Todo Bruno eh babaca neh?
+  - text: Todo mundo sabe que sou trouxa
+  - text: Estou com a síndrome do Lucas
+  - text: Eit a pleura to perdido
+  - text: Me acheit
+  - text: Coma merda.
+  - text: Passe trote no SAMU.
+  - text: Quem fala o que muito quer, ouve o que não tem.
+  - text: Quem quer o que quer, não quer o que não quer
+  - text: Os pooows nunca vem no meios dos pras?
+  - text: 2019 não acaba
+  - text: The zuera never ends
+  - text: :(
+  - text: É o fim de uma era.
+  - text: Bom dia pessoas que fazem respostas precipitadamente
+  - text: pq vc fez isso vsf
+  - text: embolotei
+  - text: Meu deus gente
+  - text: Eu n fiz nada
+  - text: Vcs q tão ai nervosos a toa
+  - text: Pq frio mesmo eh em Curitiba
+  - text: vc mexeu com meus sentimentos
+  - text: To suando
+  - text: Que calor
+  - text: Tô no inferno aqui
+  - text: MEU CACHORRO MIJOU NA MINHA CAMA
+  - text: Não to zoando
+  - text: Lembro-me quando me perdi lá na Groelândia
+  - text: Posso voltar a caminhar acima do limite de velocidade sem problema
+  - text: Triste
+  - text: MEU DEUS DO CEEEUUUUAAAA
+  - text: Mentira do capitalismo
+  - text: como esse cara era chato
+  - text: vtnc esse maluco
+  - text: "*rindo maléficamente*"
+  - text: OLHA PRA CAAAAAA
+  - text: mano vai toma no cu
+  - text: seui merda
+  - text: eu vo come
+  - text: vai se fude
+  - text: n seu verme maldito
+  - text: que porra de pagina do carrinha meu cu
+  - text: q vc n fez nada nessa merda de pagina
+  - text: do caralho
+  - text: seu pau no cu
+  - text: SEU MERDA
+  - text: Esse é o grupo de hackeagem.
+  - text: se fodam ai caraio
+  - text: Vai tomar no meu cu, que merda de metrô do kraio
+  - text: 'por isso fica um tempão "Leo está escrevendo"'
+  - text: 'Quem ri assim, Lucas? Se responder "eu", amanda os áudios.'
+  - text: Saporra é mais confusa que a cronologia dos X-Men.
+  - text: Já estava printando para mandar para a Polícia Federal.
+  - text: não
+  - text: ok, não necessariamente não
+  - text: mas não necessariamente
+  - text: Por que essa pergunta aleatória? Está fazendo cruzadinhas?
+  - text: "Eu: pessoa descrente com o rumo desta conversa"
+  - text: que porra é essa que ces tão falando gente?
+  - text: me identifico com a síndrome de lucas
+  - text: minhanossa.tar.gz
+  - text: aqui é o hacker
+  - text: Não tenho bagagem cultural para apreciar completamente isso
+  - text: hackearam a gente
+  - text: Sou um hipócrita.
+  - text: Ê vida de férias.
+  - text: acho q agora a unica opção é ele me matar né
