@@ -2,6 +2,7 @@ import os
 import random
 import logging
 import yaml
+import jellyfish
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
@@ -54,7 +55,19 @@ def date_help_cmd(update, context):
 
 
 def smart_response(update, context):
-    context.bot.send_message(chat_id=update.effective_chat.id, text=random.choice(data['random'])['text'])
+    def get_closest_string(message):
+        closest_string = {
+            'text': data['random'][0]['text'],
+            'distance': 999999,
+        }
+        for response in data['random']:
+            distance = jellyfish.damerau_levenshtein_distance(response['text'], message)
+            if distance < closest_string['distance']:
+                closest_string['text'] = response['text']
+                closest_string['distance'] = distance
+        return closest_string['text']
+
+    context.bot.send_message(chat_id=update.effective_chat.id, text=get_closest_string(update.message.text))
 
 
 # Connect to Telegram and start all handlers
